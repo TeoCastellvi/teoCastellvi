@@ -1,4 +1,6 @@
 ### Hi there 👋
+https://github.com/nuxt/framework
+https://github-stats.com/nuxt/framework
 
 <!--
 **teoCastellvi/teoCastellvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
